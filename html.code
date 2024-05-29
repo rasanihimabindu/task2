@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>"MY SIMPLE WEBPAGE"</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/177105dcae.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <div class="main">
+            <dir class="logo">
+                <img src="logo.png"  >
+            </dir>
+        </dir class>
+            <ul>
+                <li class="active"> <a href='#'>  HOME  </a> </li>
+                <li><a href='#'>  IMAGES  </a></li>
+                <li><a href='#'>  LOCATION  </a></li>
+                <li><a href='#'>  REGISTER  </a></li>
+                <li><a href='#'>  ABOUT  </a></li>
+                <li class="active"><a href='#'>  CONTACT  </a></li>
+                <li><a href='#'>  HELP  </a></li>
+                <li><a href='#'>  MORE  </a></li>
+            </ul>
+        </div>
+        <div class="container">
+            <form>
+                <i class="fa-brands fa-searchengin"></i>
+                <input type="text" placeholder="What are you lokking for?">
+                <button type="submit">Search</button>
+            </form>
+        </div>
+        <div class="title1">
+            <h2> WELCOME </h2>
+        </div>
+        <div class="button">
+            <a href="#" class="btn">WATCH VIDEOS</a>
+            <a href="#" class="btn">BASIC SKILLS</a>
+            <a href="#" class="btn">LEARN MORE</a>
+        </div>
+       
+
+    </header>
+</body>
+</html>
